@@ -7,7 +7,7 @@ For more description about this project, I wrote a medium artical about it. Go c
 
 ![result](https://github.com/JeremyPai/haar_feature_based_cascade_classifiers/blob/master/image/result.jpg)
 
-Also, if you're interested in this method, you can find OpenCV for more model trained in different tasks. [model](https://medium.com/lifes-a-struggle/haar-feature-based-cascade-classifiers-5ef4c33af02b)
+Also, if you're interested in this method, you can find OpenCV for more model trained in different tasks. [model](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
 Resource:
 
